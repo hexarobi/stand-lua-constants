@@ -1,2 +1,3 @@
-# stand-lua-constants
-Stand Lua Constants
+# Stand Lua Constants
+
+Constants that can be used within Stand Lua Scripts
