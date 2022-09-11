@@ -1,3 +1,4 @@
+-- Vehicle Hashes
 -- From https://wiki.rage.mp/index.php?title=Vehicles#Useful_Snippet
 return {
     adder=3078201489,
