@@ -1,3 +1,5 @@
+-- Vehicle Constants
+
 return {
 
     VEHICLE_MAX_OPTIONS = {
